@@ -11,7 +11,7 @@ import 'package:firebase_admob/firebase_admob.dart';
 
 // You can also test with your own ad unit IDs by registering your device as a
 // test device. Check the logs for your device's ID value.
-const String testDevice = 'ca-app-pub-9091417481311870/4593777247';
+const String testDevice = '';
 
 class MyApp extends StatefulWidget {
   @override
